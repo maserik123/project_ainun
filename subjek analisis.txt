@@ -1,0 +1,21 @@
+1. Mengetahui Pola Pemetaan kasus tindak perkara perceraian per-kecamatan berdasarkan kecamatan 
+   dan faktor penyebab perceraian pertahun (drill down kecamatan dan penyebab)
+
+2. Mengetahui Tingkat Penyelesaian perkara yang ada di Pengadilan Agama pekanbaru berdasarkan jenis perkara 
+   dan kecamatan pertahun
+
+3. Mengetahui Pola Pesebaran kasus tindak perkara perceraian yang ada di pengadilan agama pekanbaru 
+   berdasarkan kecamatan dan usia pertahun
+
+revisi
+home -> (done) - yg perkara buat grafik group gabung 1 batang dengn thun di bawah nya
+	- yg penyebab pakai pai usia suami istri ke %
+	(done) - yg faktor penyebab buat group dengan kecamatan di abwah nya
+	(done) - peta tetap aja
+dashboard -> --penyebab-- buat inputan kpi ( by tahun by faktor penyebab)
+	  (done) -> --perkara-- sudah cocok
+	  (done) -> ---peta-- sudah cocok ya 
+
+(done) role user - staff bisa semua, pimpinan hanya home dan dashboard saja
+(done) tambah range pilihan tahun 
+
